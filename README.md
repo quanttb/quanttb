@@ -21,11 +21,8 @@ I'm Quan Tran!
 
 <div>  
   <p align="center">
-  <b><em>GitHub Stats:</em></b><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=quanttb&show_icons=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quanttb"/><br/>
-  <b><em>Programming activities (Last 7 days):</em></b><br/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=quanttb"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=quanttb&show_icons=true"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=quanttb"/>
   </p>
 </div>
 
