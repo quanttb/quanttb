@@ -7,8 +7,8 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=quanttb.quanttb)](https://github.com/quanttb) [![GitHub followers](https://img.shields.io/github/followers/quanttb.svg?style=social&label=Follow)](https://github.com/quanttb?tab=followers)
 
 I'm Quan Tran! 
-- <i>Currently:</i> Blockchain developer at BSCPad. 
-- <i>Previously:</i> Blockchain developer at Hitachi Vantara.
+- <i>Currently:</i> Blockchain developer at TrustSwap. 
+- <i>Previously:</i> Blockchain developer at BSCPad.
 
 <h2>🎯 Certificates</h2>
 
